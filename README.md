@@ -1,3 +1,7 @@
+这个版本预装了网文作者常用的一些软件，包括阅文的作家助手，万象输入法，novelwriter等
+
+
+
 [![小小电脑使用照片](https://github.com/Cateners/tiny_computer/raw/master/readme/cover0.png)](https://github.com/Cateners/tiny_computer/blob/master/readme/cover0.png)
 
 # 小小电脑
