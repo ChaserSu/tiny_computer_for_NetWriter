@@ -1,5 +1,5 @@
 # 这个版本预装了网文作者常用的一些软件，包括阅文的作家助手，万象输入法，novelwriter等
-# 语音识别功能还没有准备好，等到准备好了后会以sh脚本的形式发布，目前还在测试bug，你可以手动安装：https://github.com/ChaserSu/CapsWriter-Offline-Android
+# 语音识别功能还没有准备好，等到准备好了后会以sh脚本的形式发布，目前还在测试bug，但可用性已经很高了，你可以手动安装：https://github.com/ChaserSu/CapsWriter-Offline-Android
 
 
 
